@@ -1,0 +1,13 @@
+h1 {
+  font-family: 'Calibri';
+  font-style: italic;
+  color: rgb(20, 200, 240)
+}
+h2 {
+  font-family: 'Trebuchet MS';
+  color: rgb(194, 67, 67);
+}
+ul {
+  font-family: 'Tahoma';
+  color: rgb(100, 150, 50);
+}
